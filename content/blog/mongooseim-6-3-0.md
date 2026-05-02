@@ -47,4 +47,4 @@ You can read more about MongooseIM 6.3 in the detailed [blog post](https://www.e
 
 [Read about Erlang Solutions as sponsor of the XSF](/sponsors/erlang-solutions/).
 
-{{< figure src="/images/logos/erlang-solutions.png" class="p-2 sponsor-logo" >}}
+{{< figure src="/images/logos/erlang-solutions.png" class="p-3 sponsor-logo" >}}

@@ -5,7 +5,7 @@ aliases:
     - "/sponsors/us-secure-hosting-center.html"
 ---
 
-{{< figure src="/images/logos/usshc.png" class="p-2 sponsor-logo" >}}
+{{< figure src="/images/logos/usshc.png" class="p-3 sponsor-logo w-100 text-center" >}}
 
 USSHC is a privately owned underground secure colocation data center located in the rural Midwestern United States. We take pride in offering the most secure, carrier-class colocation data center services available. USSHC hosts the servers on which xmpp.org and jabber.org services are run.
 

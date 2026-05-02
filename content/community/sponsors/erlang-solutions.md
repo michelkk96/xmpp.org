@@ -3,7 +3,7 @@ Title: Former Sponsor - Erlang Solutions
 Url: sponsors/erlang-solutions
 ---
 
-{{< figure src="/images/logos/erlang-solutions.png" class="p-2 sponsor-logo" >}}
+{{< figure src="/images/logos/erlang-solutions.png" class="p-3 sponsor-logo w-100 text-center" >}}
 
 > **Note:** Erlang Solutions is no longer an active sponsor of the XMPP Standards Foundation.
 > This page is preserved for historical reference.

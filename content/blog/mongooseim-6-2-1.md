@@ -31,4 +31,4 @@ If you want quickly set up a working autoscaled MIM cluster using Helm, see the 
 
 [Read about Erlang Solution as sponsor of the XSF](/sponsors/erlang-solutions/).
 
-{{< figure src="/images/logos/erlang-solutions.png" class="p-2 sponsor-logo" >}}
+{{< figure src="/images/logos/erlang-solutions.png" class="p-3 sponsor-logo" >}}

@@ -48,4 +48,4 @@ The most important improvement in MongooseIM 6.5.0 is the production-ready integ
 
 [Read about Erlang Solutions as sponsor of the XSF](/sponsors/erlang-solutions/).
 
-{{< figure src="/images/logos/erlang-solutions.png" class="p-2 sponsor-logo" >}}
+{{< figure src="/images/logos/erlang-solutions.png" class="p-3 sponsor-logo" >}}

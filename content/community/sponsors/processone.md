@@ -5,7 +5,7 @@ aliases:
     - "/sponsors/processone.html"
 ---
 
-{{< figure src="/images/logos/process-one.png" class="p-2 sponsor-logo" >}}
+{{< figure src="/images/logos/process-one.png" class="p-3 sponsor-logo w-100 text-center" >}}
 
 ProcessOne is a leading provider of rich Messaging, IoT and Push solutions optimized for building world-class realtime software.
 
